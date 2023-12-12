@@ -1,14 +1,15 @@
-![images](https://github.com/KarolPonikowski/KarolPonikowski/assets/115424380/2d2777ef-b54a-49da-a2ff-ab7b07645403)
+![4f5968a6-367e-4229-bbac-6e511bbe52ea](https://github.com/KarolPonikowski/KarolPonikowski/assets/115424380/8917b78f-24a7-4016-97e6-f6f81d253a17)
 
+Hi I'm Karol
 
+👨‍💻 Candidate for full-time Flutter developer from Poland 👨‍💻
 
-I'm good at:
-🟢Dart
-🟢Flutter
-🟢REST API
-🟢BLoc
+In free time:
 
-My plan is to become a full-time Flutter developer.
+🐶 dog's coach 🐶
+🥊 boxing fan 🥊
+♔ chess player ♔
 
-Privately, I’m dog's coach and a chess player.
+Let's be in touch!
+karolponikowski@proton.me
 
