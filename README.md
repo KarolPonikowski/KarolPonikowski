@@ -8,7 +8,7 @@
 
                                                          🐶 dog's coach 🐶
 
-                                                         🏍 enduro fan 🏍
+                                                         🥊 kickboxing 🥊
 
                                                          ♔ chess player ♔
 
